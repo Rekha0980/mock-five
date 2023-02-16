@@ -28,7 +28,7 @@
             ]
         }
     ],
-    "companies": [
+    "companies": 
         [
             {
                 "id": 1,
@@ -51,5 +51,5 @@
                 "price_action": 4
             }
         ]
-    ]
+    
 }
